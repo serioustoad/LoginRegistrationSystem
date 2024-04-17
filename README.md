@@ -57,4 +57,4 @@
 [^1]: The accounts (text files) are named the following way: username + ".txt". The program attempts the log-in process by screening for accounts named after the username, then reads the file if found. It then checks to see if the username within the file matches the user's input, along with the password. Therefore, even if the account exists and is found, if the username within the account file is not correct, login() will return false to main().
 
 ## License
-[License](docs/LICENSE.txt)
+[License](https://github.com/serioustoad/LoginRegistrationSystem_cpp/blob/master/LICENSE.txt)
